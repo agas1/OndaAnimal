@@ -47,4 +47,4 @@ Este projeto foi desenvolvido para uma instituição real com o objetivo de repr
 ## 👩‍💻 Desenvolvido por
 
 - **Ágatha Selbach**  
-Analise e desenvolvimento - Unisinos 
+Analise e Desenvolvimento de Sistemas - Unisinos 
