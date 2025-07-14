@@ -47,4 +47,4 @@ Este projeto foi desenvolvido para uma instituição real com o objetivo de repr
 ## 👩‍💻 Desenvolvido por
 
 - **Ágatha Selbach**  
-  Estudante de Engenharia de Software – Anhanguera  
+Analise e desenvolvimento - Unisinos 
